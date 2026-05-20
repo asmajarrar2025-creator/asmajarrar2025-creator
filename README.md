@@ -11,32 +11,7 @@ I'm passionate about turning raw data into meaningful insights through rigorous 
 <details>
 <summary>📁 DS-copy0</summary>
 
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-
-</details>
-
-<details>
-<summary>📁 DS-copy1</summary>
-
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-
-</details>
-
-<details>
-<summary>📁 DS-copy2</summary>
-
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-
-</details>
-
-<details>
-<summary>📁 Project-0</summary>
-
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
-- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+- [test_EDA](https://github.com/asmajarrar2025-creator/test_EDA)
 
 </details>
 
@@ -63,8 +38,6 @@ I'm passionate about turning raw data into meaningful insights through rigorous 
 </invoke>
 </function_calls>
 
-Just replace:
-- **`Repo Name`** → your actual repo name
-- **`repo-name`** → your actual repo name in the URL
+Now go paste this into your GitHub README and commit! 
 
-Then paste it into GitHub and commit! 😊
+When you click **📁 DS-copy0** it will expand and show **test_EDA** as a clickable link! 😊
