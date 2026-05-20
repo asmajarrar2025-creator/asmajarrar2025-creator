@@ -1,11 +1,3 @@
-Good choice! Here's the updated README without clickable links:
-
-<function_calls>
-<invoke name="artifact">
-<parameter name="identifier">github-profile-readme</parameter>
-<parameter name="type">text/markdown</parameter>
-<parameter name="title">GitHub Profile README</parameter>
-<parameter name="content">
 # Hi, I'm Asma 👋
 
 ### 🎯 Quality Data Scientist
