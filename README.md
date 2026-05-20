@@ -9,14 +9,14 @@ I'm passionate about turning raw data into meaningful insights through rigorous 
 ## 🗂️ My Projects
 
 <details>
-<summary>⭐ Project_1</summary>
+<summary>▪️ Project_1 — coming soon</summary>
 
 🚧 *On going...*
 
 </details>
 
 <details>
-<summary>⭐ Project_2</summary>
+<summary>▪️ Project_2 — coming soon</summary>
 
 🚧 *On going...*
 
