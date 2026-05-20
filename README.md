@@ -8,12 +8,37 @@ I'm passionate about turning raw data into meaningful insights through rigorous 
 
 ## 🗂️ My Projects
 
-| Project | Status |
-|--------|--------|
-| DS-copy0 | 🔒 Private |
-| DS-copy1 | 🔒 Private |
-| DS-copy2 | 🔒 Private |
-| Project-0 | 🔒 Private |
+<details>
+<summary>📁 DS-copy0</summary>
+
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+
+</details>
+
+<details>
+<summary>📁 DS-copy1</summary>
+
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+
+</details>
+
+<details>
+<summary>📁 DS-copy2</summary>
+
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+
+</details>
+
+<details>
+<summary>📁 Project-0</summary>
+
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+- [Repo Name](https://github.com/asmajarrar2025-creator/repo-name)
+
+</details>
 
 ---
 
@@ -38,13 +63,8 @@ I'm passionate about turning raw data into meaningful insights through rigorous 
 </invoke>
 </function_calls>
 
-Later when you make a project public, just change 🔒 **Private** to 🌐 **Public** and add the link!
+Just replace:
+- **`Repo Name`** → your actual repo name
+- **`repo-name`** → your actual repo name in the URL
 
----
-
-**To change each repo privacy manually:**
-1. Go to the repo → **Settings**
-2. Scroll to **Danger Zone**
-3. Click **Change visibility**
-
-Want help pasting this README into GitHub?
+Then paste it into GitHub and commit! 😊
